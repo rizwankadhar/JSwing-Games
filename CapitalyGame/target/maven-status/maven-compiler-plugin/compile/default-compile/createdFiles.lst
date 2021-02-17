@@ -1,0 +1,11 @@
+capitalygame\Player.class
+capitalygame\InvalidInputException.class
+capitalygame\CarefulPlayer.class
+capitalygame\LuckyField.class
+capitalygame\Field.class
+capitalygame\DataInput.class
+capitalygame\PropertyField.class
+capitalygame\GreedyPlayer.class
+capitalygame\Main.class
+capitalygame\ServiceField.class
+capitalygame\TacticalPlayer.class
